@@ -1,0 +1,17 @@
+
+
+.div-row{
+    display: flex;
+    justify-content: center;     
+}
+
+.div-col{
+    border: black solid;
+    margin: 1px;
+    padding: 10px;    
+}
+
+
+
+
+
